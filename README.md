@@ -1,4 +1,1 @@
-# newdemo
-First git hub repsitory
-<br>
-Koradia poojan(boi)
+# this is my new repo
